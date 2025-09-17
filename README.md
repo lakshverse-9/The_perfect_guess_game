@@ -15,7 +15,7 @@ You can try unlimited times until you get the right number.
 
 2.Run the file in your terminal or any IDE using:
 
-python perfect_guess_game.py
+python ThePerfectGuess.py
 
 
 3.Start guessing numbers between 1 and 10.
